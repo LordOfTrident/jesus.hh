@@ -24,8 +24,8 @@
 * [Make](#make)
 
 ## Introduction
-Just a replacement library for the C++ STL that i decided to make for fun. Not intended to be used
-in serious projects.
+Just a replacement library for the C++ STL built on top of libc that i decided to make for fun.
+Not intended to be used in serious projects.
 
 ## Quickstart
 Compile the example
